@@ -15,7 +15,7 @@ class Login extends React.Component{
                             <img className="head-phone-img" src={HeadPhone} alt=""/>
                         </div>
                         <div className="main-row-text">
-                            <h1>Music for everyone</h1>
+                            <h1>Music for </h1>
                             <p>Without music, life would be a mistake</p>
                             <Link to={"/home"} className="btn">
                                 Start Listening

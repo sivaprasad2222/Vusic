@@ -12,8 +12,8 @@ const Developer = () => {
                 <div className="Developer-profileCard">
                     <img src={AvatarImage} alt="Profile"/>
                     <div className={"Card-details"}>
-                        <h3>Vishal Singh</h3>
-                        <p>Full Stack developer</p>
+                        <h3>Vishal</h3>
+                        <p>Full Stack </p>
                         <p>Competitive Coder</p>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ const Developer = () => {
                     <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
                     <p>And a blogger.</p>
                     <div className="Card-btn">
-                        <IconButton target={"_blank"}  href={"https://www.facebook.com/vishal.kld"} title={"vishal.kld"}>
+                        <IconButton target={"_blank"}  href={} title={"vishal.kld"}>
                             <Facebook/>
                         </IconButton>
                         <IconButton target={"_blank"} href={"https://twitter.com/Vishal_kld"}  title={"Vishal_kld"}>
